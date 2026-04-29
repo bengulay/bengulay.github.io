@@ -22,6 +22,13 @@ title: Home
     Edinburgh, UK
   </p>
 
+<p style="margin-top: 10px; color: #555;">
+  <strong>Supervisor:</strong><br>
+  <a href="https://zeerak.org/" target="_blank">Prof. Zeerak Talat</a><br>
+  <strong>Supervisor:</strong><br>
+  <a href="https://..." target="_blank">Dr. Y Name</a>
+</p>
+
   <p style="margin-top: 15px;">
     <a href="https://www.linkedin.com/in/bengü-gülay-9220aa1a4">[LinkedIn]</a> &nbsp;
     <a href="#">[GitHub]</a>
@@ -34,4 +41,6 @@ title: Home
 ## About
 
 I am a PhD student working on fairness in federated learning, with a focus on privacy-preserving NLP systems. My research explores how large language models behave under constraints such as obfuscation, decentralization, and adversarial settings.
+
+My research spans privacy, NLP, and cryptology, with a strong interdisciplinary component in human–computer interaction. I explore topics such as homomorphic encryption, differential privacy, information leakage in large language models, and data poisoning in NLP systems. I am also interested in adversarial attacks on LLMs (e.g., honeypot-based methods) and how humans perceive and evaluate trust in AI systems.
 
