@@ -23,10 +23,10 @@ title: Home
   </p>
 
 <p style="margin-top: 10px; color: #555;">
-  <strong>Supervisor:</strong><br>
-  <a href="https://zeerak.org/" target="_blank">Prof. Zeerak Talat</a><br>
-  <strong>Supervisor:</strong><br>
-  <a href="https://..." target="_blank">Dr. Y Name</a>
+  <strong>Advisor:</strong><br>
+  <a href="https://zeerak.org/" target="_blank">Asst. Prof. Zeerak Talat</a><br>
+  <strong>Co-advisor:</strong><br>
+  <a href="https://mjuarezm.github.io/" target="_blank">Dr. Marc Juarez</a>
 </p>
 
   <p style="margin-top: 15px;">
