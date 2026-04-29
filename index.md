@@ -22,7 +22,7 @@ title: Home
   </p>
 
   <p style="margin-top: 15px;">
-    <a href="www.linkedin.com/in/bengü-gülay-9220aa1a4">[LinkedIn]</a> &nbsp;
+    <a href="https://www.linkedin.com/in/bengü-gülay-9220aa1a4">[LinkedIn]</a> &nbsp;
     <a href="#">[GitHub]</a>
   </p>
 
