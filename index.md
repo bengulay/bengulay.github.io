@@ -1,13 +1,18 @@
 ---
-layout: home
+layout: page
 title: Home
 ---
 
-Welcome.
+## Welcome
 
-This is my personal academic website.
-
-I work on:
+I am a PhD student working on:
 - Federated Learning
-- Fairness in Machine Learning
-- Privacy & NLP
+- Fairness
+- Privacy in NLP
+
+## Research Interests
+Short description here.
+
+## Contact
+- Email: ...
+- GitHub: ...
