@@ -5,6 +5,7 @@ title: Home
 
 <div style="text-align: center; margin-top: 40px;">
 
+  <img src="/public/ben.jpg" alt="Profile Photo" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
 
   <h1 style="margin-top: 20px;">Bengu Gulay</h1>
 
