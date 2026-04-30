@@ -38,10 +38,30 @@ permalink: /bibliography/
 
 ## Experience
 
-- **Software Engineer (Part-time)**  
-  Company Name  
-  Year – Year  
+- **Software Developer**  
+  Borusan
+  2022 – 2024
 
-- **Software Engineer**  
-  Company Name  
-  Year – Year  
+- **Java Developer**  
+  Türk Telekom 
+  2022
+  
+- **Java Developer (Part-time)**  
+  Türk Telekom  
+  2021 – 2022 
+
+- **R&D Intern**  
+  Enerjisa
+  2020
+
+- **R&D Intern**  
+  STM Defence
+  2020
+  
+ - **Software Intern**  
+  DenizBank
+  2020
+   
+  - **R&D Intern**  
+  Baykar Defence
+  2019 
