@@ -29,5 +29,49 @@ permalink: /cats/
     <img src="/public/kedi4.jpg" style="width: 250px; border-radius: 10px;">
     <p style="color: #777;">Cat 3</p>
   </div>
-  
+
+  <div style="text-align: center;">
+    <img src="/public/kedi5.jpg" style="width: 250px; border-radius: 10px;">
+    <p style="color: #777;">Cat 3</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/public/kedi6.jpg" style="width: 250px; border-radius: 10px;">
+    <p style="color: #777;">Cat 3</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/public/kedi7.jpg" style="width: 250px; border-radius: 10px;">
+    <p style="color: #777;">Cat 3</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/public/kedi8.jpg" style="width: 250px; border-radius: 10px;">
+    <p style="color: #777;">Cat 3</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/public/kedi9.jpg" style="width: 250px; border-radius: 10px;">
+    <p style="color: #777;">Cat 3</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/public/kedi10.jpg" style="width: 250px; border-radius: 10px;">
+    <p style="color: #777;">Cat 3</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/public/kedi11.jpg" style="width: 250px; border-radius: 10px;">
+    <p style="color: #777;">Cat 3</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/public/kedi12.jpg" style="width: 250px; border-radius: 10px;">
+    <p style="color: #777;">Cat 3</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/public/kedi13.jpg" style="width: 250px; border-radius: 10px;">
+    <p style="color: #777;">Cat 3</p>
+  </div>
 </div>
