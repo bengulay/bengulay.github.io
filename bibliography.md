@@ -15,8 +15,8 @@ permalink: /bibliography/
   2023 – 2025  
 
 - **BSc in Electrical and Electronics Engineering**  
-  Bilkent University, Turkey 
-  2016 – 2022 
+  Bilkent University, Turkey  
+  2026 – 2022
 
 ---
 
@@ -27,11 +27,11 @@ permalink: /bibliography/
   2023-2024
   
 - **Teaching Assistant – CS 204 Advanced Programming**  
-  Sabancı University, Turkey 
+  Sabancı University, Turkey  
   2024
   
 - **Teaching Assistant – CS 201 Programming Fundamentals**  
-  Sabancı University, Turkey 
+  Sabancı University,Turkey  
   2023  
 
 ---
@@ -39,29 +39,29 @@ permalink: /bibliography/
 ## Experience
 
 - **Software Developer**  
-  Borusan
+  Borusan 
   2022 – 2024
 
 - **Java Developer**  
-  Türk Telekom 
+  Türk Telekom  
   2022
   
 - **Java Developer (Part-time)**  
-  Türk Telekom  
+  Türk Telekom
   2021 – 2022 
 
 - **R&D Intern**  
-  Enerjisa
+  Enerjisa  
   2020
 
 - **R&D Intern**  
-  STM Defence
+  STM Defence  
   2020
   
  - **Software Intern**  
-  DenizBank
+  DenizBank  
   2020
    
   - **R&D Intern**  
-  Baykar Defence
+  Baykar Defence  
   2019 
