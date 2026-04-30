@@ -5,8 +5,7 @@ permalink: /cats/
 ---
 
 <p class="message">
-  Hey there! This is a completely necessary section 🐾   
-  
+  Hey there! This is a completely necessary section 🐾   <br>
   All photos are taken by me.
 </p>
 
