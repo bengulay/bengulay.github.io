@@ -1,7 +1,7 @@
 # Setup
-title:               Bengu
-tagline:             'My Personal Page'
-description:         'Welcome.'
+title:               Bengü Gülay's
+tagline:             'Personal Page'
+description:         'Bengü Gülay'
 url:                 https://bengulay.github.io
 baseurl:             ""
 paginate:            5
@@ -9,7 +9,7 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Bengu Gulay
+  name:              Bengü Gülay
   email:             s2888153@ed.ac.uk
 
 # Gems
