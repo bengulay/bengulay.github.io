@@ -5,7 +5,8 @@ permalink: /cats/
 ---
 
 <p class="message">
-  Hey there! This is a completely necessary section 🐾
+  Hey there! This is a completely necessary section 🐾   
+  
   All photos are taken by me.
 </p>
 
@@ -78,6 +79,6 @@ permalink: /cats/
 
   <div style="text-align: center;">
     <img src="/public/kedi14.jpg" style="width: 250px; border-radius: 10px;">
-    <p style="color: #777;">Didn't give me my bag, missed my class</p>
+    <p style="color: #777;">Bag occupied, class missed</p>
   </div>
 </div>
