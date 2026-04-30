@@ -8,7 +8,7 @@ title: Home
   <img src="/public/ben.jpg" alt="Profile Photo" 
      style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; display: block; margin: 0 auto;">
 
-  <h1 style="margin-top: 20px;">Bengu Gulay</h1>
+  <h1 style="margin-top: 20px;">Bengü Gülay</h1>
 
   <p style="letter-spacing: 2px; color: #777;">
     PHD STUDENT<br>
