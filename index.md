@@ -40,7 +40,15 @@ title: Home
 
 ## About
 
-I am a PhD student working on fairness in federated learning, with a focus on privacy-preserving NLP systems. My research explores how large language models behave under constraints such as obfuscation, decentralization, and adversarial settings.
+I am a PhD student working on fairness in federated learning, with a focus on privacy-preserving NLP systems. My current research investigates how to ensure fairness and privacy in decentralized settings where client data distributions are non-IID, biased, or potentially adversarial. I am particularly interested in fairness challenges in federated NLP and large language models, including performance, participation, and group fairness.
 
-My research spans privacy, NLP, and cryptology, with a strong interdisciplinary component in human–computer interaction. I explore topics such as homomorphic encryption, differential privacy, information leakage in large language models, and data poisoning in NLP systems. I am also interested in adversarial attacks on LLMs (e.g., honeypot-based methods) and how humans perceive and evaluate trust in AI systems.
+My broader research background lies at the intersection of privacy, natural language processing, and cryptography, with an interdisciplinary perspective that includes human–computer interaction. I have worked on topics such as homomorphic encryption and differential privacy, as well as information leakage and adversarial vulnerabilities in large language models, including data poisoning and honeypot-based attacks. I am also interested in how humans perceive and evaluate trust in AI systems.
+
+---
+
+<p style="text-align: center; color: #777; margin-top: 40px;">
+  Always happy to discuss research, ideas, or collaborations.
+</p>
+
+
 
