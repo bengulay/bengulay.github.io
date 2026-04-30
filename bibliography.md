@@ -31,7 +31,7 @@ permalink: /bibliography/
   2024
   
 - **Teaching Assistant – CS 201 Programming Fundamentals**  
-  Sabancı University,Turkey  
+  Sabancı University, Turkey  
   2023  
 
 ---
@@ -39,7 +39,7 @@ permalink: /bibliography/
 ## Experience
 
 - **Software Developer**  
-  Borusan 
+  Borusan  
   2022 – 2024
 
 - **Java Developer**  
@@ -47,7 +47,7 @@ permalink: /bibliography/
   2022
   
 - **Java Developer (Part-time)**  
-  Türk Telekom
+  Türk Telekom  
   2021 – 2022 
 
 - **R&D Intern**  
