@@ -12,11 +12,11 @@ permalink: /publications/
 
 ### Book Chapters
 
-- **Decoding the Uncanny Valley: Investigation of Factors Causing the Phenomenon**
+- **Decoding the Uncanny Valley: Investigation of Factors Causing the Phenomenon**  
   B. Gülay, B. Kertmen, *in Human Computer Interaction in the Age of Artificial Intelligence*, Peter Lang International Academic Publishers, 2026 (in press)
 
 ### Journal Articles
 
-- **Adversarial Code Structuring with Honeypots to Mitigate LLM Vulnerability Leakage**
+- **Adversarial Code Structuring with Honeypots to Mitigate LLM Vulnerability Leakage**  
   B. Gülay, C. Yılmaz, submitted to *International Journal of Information Security*, under review
   
