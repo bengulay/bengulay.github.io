@@ -22,7 +22,7 @@ permalink: /cats/
 
   <div style="text-align: center;">
     <img src="/public/kedi3.jpg" style="width: 250px; border-radius: 10px;">
-    <p style="color: #777;">Main character energy</p>
+    <p style="color: #777;">Cat at sunset</p>
   </div>
 
   <div style="text-align: center;">
@@ -32,22 +32,22 @@ permalink: /cats/
 
   <div style="text-align: center;">
     <img src="/public/kedi5.jpg" style="width: 250px; border-radius: 10px;">
-    <p style="color: #777;">Cat 3</p>
+    <p style="color: #777;">Meowbucks regular</p>
   </div>
 
   <div style="text-align: center;">
     <img src="/public/kedi6.jpg" style="width: 250px; border-radius: 10px;">
-    <p style="color: #777;">Cat 3</p>
+    <p style="color: #777;">Mid-air belly exposure</p>
   </div>
 
   <div style="text-align: center;">
     <img src="/public/kedi7.jpg" style="width: 250px; border-radius: 10px;">
-    <p style="color: #777;">Cat 3</p>
+    <p style="color: #777;">Sleeping on duty</p>
   </div>
 
   <div style="text-align: center;">
     <img src="/public/kedi8.jpg" style="width: 250px; border-radius: 10px;">
-    <p style="color: #777;">Cat 3</p>
+    <p style="color: #777;">Library visit: 10/10 confusion</p>
   </div>
 
   <div style="text-align: center;">
@@ -57,7 +57,7 @@ permalink: /cats/
 
   <div style="text-align: center;">
     <img src="/public/kedi10.jpg" style="width: 250px; border-radius: 10px;">
-    <p style="color: #777;">Cat 3</p>
+    <p style="color: #777;">Taking the network midterm together</p>
   </div>
 
   <div style="text-align: center;">
@@ -67,7 +67,7 @@ permalink: /cats/
 
   <div style="text-align: center;">
     <img src="/public/kedi12.jpg" style="width: 250px; border-radius: 10px;">
-    <p style="color: #777;">Cat 3</p>
+    <p style="color: #777;">Cat at sunset 2</p>
   </div>
 
   <div style="text-align: center;">
