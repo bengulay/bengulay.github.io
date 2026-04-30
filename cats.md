@@ -6,6 +6,7 @@ permalink: /cats/
 
 <p class="message">
   Hey there! This is a completely necessary section 🐾
+  All photos are taken by me.
 </p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
@@ -73,5 +74,10 @@ permalink: /cats/
   <div style="text-align: center;">
     <img src="/public/kedi13.jpg" style="width: 250px; border-radius: 10px;">
     <p style="color: #777;">Feeling a bit shy</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/public/kedi14.jpg" style="width: 250px; border-radius: 10px;">
+    <p style="color: #777;">Didn't give me my bag, missed my class</p>
   </div>
 </div>
