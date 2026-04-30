@@ -27,7 +27,7 @@ permalink: /cats/
 
   <div style="text-align: center;">
     <img src="/public/kedi4.jpg" style="width: 250px; border-radius: 10px;">
-    <p style="color: #777;">Yawning aestheticly</p>
+    <p style="color: #777;">Just a happy baby</p>
   </div>
 
   <div style="text-align: center;">
@@ -57,7 +57,7 @@ permalink: /cats/
 
   <div style="text-align: center;">
     <img src="/public/kedi10.jpg" style="width: 250px; border-radius: 10px;">
-    <p style="color: #777;">Taking the network midterm together</p>
+    <p style="color: #777;">Taking the midterm together</p>
   </div>
 
   <div style="text-align: center;">
