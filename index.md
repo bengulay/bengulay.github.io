@@ -22,17 +22,18 @@ title: Home
     Edinburgh, UK
   </p>
 
-<p style="margin-top: 10px; color: #555;">
-  <strong>Advisor:</strong><br>
-  <a href="https://zeerak.org/" target="_blank">Zeerak Talat</a><br>
-  <strong>Co-advisor:</strong><br>
-  <a href="https://mjuarezm.github.io/" target="_blank">Marc Juarez</a>
-</p>
 
   <p style="margin-top: 15px;">
     <a href="https://www.linkedin.com/in/bengü-gülay-9220aa1a4">[LinkedIn]</a> &nbsp;
     <a href="#">[GitHub]</a>
   </p>
+
+  <p style="margin-top: 10px; color: #555;">
+  <strong>Advisor:</strong><br>
+  <a href="https://zeerak.org/" target="_blank">Zeerak Talat</a><br>
+  <strong>Co-advisor:</strong><br>
+  <a href="https://mjuarezm.github.io/" target="_blank">Marc Juarez</a>
+</p>
 
 </div>
 
