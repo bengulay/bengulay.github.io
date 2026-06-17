@@ -18,7 +18,6 @@ title: Home
 
   <p>
     <a href="mailto:B.Gulay@sms.ed.ac.uk">B.Gulay@sms.ed.ac.uk</a><br>
-    Informatics Forum<br>
     Edinburgh, UK
   </p>
 
