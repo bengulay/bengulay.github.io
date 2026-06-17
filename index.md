@@ -40,9 +40,16 @@ I am a PhD student working on fairness in federated learning, with a focus on pr
 
 My broader research background lies at the intersection of privacy, natural language processing, and cryptography, with an interdisciplinary perspective that includes human–computer interaction. I have worked on topics such as homomorphic encryption and differential privacy, as well as information leakage and adversarial vulnerabilities in large language models, including data poisoning and honeypot-based attacks. I am also interested in how humans perceive and evaluate trust in AI systems.
 
+  <p style="margin-top: 10px; color: #555;">
+  <strong>Advisor:</strong><br>
+  <a href="https://zeerak.org/" target="_blank">Zeerak Talat</a><br>
+  <strong>Co-advisor:</strong><br>
+  <a href="https://mjuarezm.github.io/" target="_blank">Marc Juarez</a>
+  </p>
 
 <br><br><br>
 ---
+
 
 <p style="text-align: center; color: #777; margin-top: 40px;">
   Always happy to discuss research, ideas, or collaborations.
