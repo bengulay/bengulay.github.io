@@ -60,17 +60,10 @@ h1, h2, h3, h4, h5, h6 {
  * regular page content.
  */
 
-/*
+
 .wrap {
   position: relative;
   width: 100%;
-}
-BENGU ADDED NEXT
-*/
-.wrap {
-  position: relative;
-  width: calc(100% - 14rem);
-  margin-left: 14rem;
 }
 
 
